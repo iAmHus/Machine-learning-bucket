@@ -2,7 +2,7 @@
 Develop predictive models that can determine given a particular compound whether it is active (1) or not (0).
 
 ## Scoring Metric
-Since the dataset is imbalanced the scoring function will be the F1-score instead of Accuracy.
+Since the dataset is imbalanced the scoring function will be the F1-score(that considers both precision and recall) instead of Accuracy.
 
 ## Data Description
 
